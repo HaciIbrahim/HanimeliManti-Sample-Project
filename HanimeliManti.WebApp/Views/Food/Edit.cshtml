@@ -1,0 +1,57 @@
+﻿@model HanimeliManti.Entities.Food
+
+@{
+    ViewBag.Title = "Düzenle";
+}
+<link href="~/Content/validation-summary.css" rel="stylesheet" />
+
+<div class="row">
+    <div class="col-md-8 col-md-offset-2">
+        <h2>@ViewBag.Title</h2>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8 col-md-offset-2">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+    
+            <div class="form-horizontal">
+                <h4>Food</h4>
+                <hr />
+                @Html.ValidationSummary(false)
+                @Html.HiddenFor(model => model.Id)
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-8">
+                        @Html.TextAreaFor(model => model.Description,5,30, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Price, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <button type="submit" class="btn btn-success"><span class="glyphicon glyphicon-edit"></span> Düzenle</button>
+                        <a href="/Food/Index" class="btn btn-default"><span class="glyphicon glyphicon-arrow-left"></span> Geri Dön</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+

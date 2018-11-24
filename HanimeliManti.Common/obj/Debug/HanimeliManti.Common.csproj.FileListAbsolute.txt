@@ -1,0 +1,5 @@
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Common\bin\Debug\HanimeliManti.Common.dll
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Common\bin\Debug\HanimeliManti.Common.pdb
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Common\obj\Debug\HanimeliManti.Common.csproj.CoreCompileInputs.cache
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Common\obj\Debug\HanimeliManti.Common.dll
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Common\obj\Debug\HanimeliManti.Common.pdb

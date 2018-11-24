@@ -1,0 +1,9 @@
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Entities\bin\Debug\HanimeliManti.Entities.dll
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Entities\bin\Debug\HanimeliManti.Entities.pdb
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Entities\obj\Debug\HanimeliManti.Entities.csprojAssemblyReference.cache
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Entities\obj\Debug\HanimeliManti.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Entities\obj\Debug\HanimeliManti.Entities.dll
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Entities\obj\Debug\HanimeliManti.Entities.pdb
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Entities\bin\Debug\HanimeliManti.Common.dll
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Entities\bin\Debug\HanimeliManti.Common.pdb
+C:\Users\Haci Ibrahim TUTUMLU\source\repos\UdemyAspNetMVC\HanimeliMantiSolution\HanimeliManti.Entities\obj\Debug\HanimeliManti.Entities.csproj.CopyComplete
